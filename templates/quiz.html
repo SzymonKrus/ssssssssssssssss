@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="{{ style }}">
+</head>
+<body>
+<header>Quiz wiedzy historycznej</header>
+<nav>
+    <a href="/">Start</a>
+    <a href="/register">Rejestracja</a>
+    <a href="/quiz">Quiz</a>
+    <a href="/guestbook">Księga Gości</a>
+</nav>
+<main>
+    <h2>Rozwiąż quiz historyczny</h2>
+    <form method="post">
+        {% for q in questions %}
+            <label>{{ loop.index }}. {{ q.question }}</label>
+            <select name="{{ q.name }}">
+                {% for option in q.options %}
+                    <option value="{{ option }}">{{ option }}</option>
+                {% endfor %}
+            </select>
+        {% endfor %}
+        <button type="submit">Wyślij</button>
+    </form>
+</main>
+<footer>&copy; 2025 Quiz wiedzy</footer>
+</body>
+</html>

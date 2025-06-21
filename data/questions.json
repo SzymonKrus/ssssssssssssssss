@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Kiedy wybuchła II wojna światowa?",
+        "options": [
+            "1939",
+            "1945",
+            "1918"
+        ],
+        "name": "q1"
+    },
+    {
+        "question": "Kto był pierwszym cesarzem Rzymu?",
+        "options": [
+            "Neron",
+            "Oktawian August",
+            "Juliusz Cezar"
+        ],
+        "name": "q2"
+    },
+    {
+        "question": "W którym roku Polska odzyskała niepodległość po zaborach?",
+        "options": [
+            "1918",
+            "1920",
+            "1939"
+        ],
+        "name": "q3"
+    },
+    {
+        "question": "Jakie wydarzenie rozpoczęło rewolucję francuską?",
+        "options": [
+            "Bitwa pod Waterloo",
+            "Zdobycie Bastylii",
+            "Zamach na Robespierre'a"
+        ],
+        "name": "q4"
+    },
+    {
+        "question": "Kim był Mieszko I?",
+        "options": [
+            "Pierwszym królem Polski",
+            "Pierwszym prezydentem RP",
+            "Pierwszym historycznym władcą Polski"
+        ],
+        "name": "q5"
+    },
+    {
+        "question": "W jakim roku miała miejsce bitwa pod Grunwaldem?",
+        "options": [
+            "1410",
+            "1492",
+            "1385"
+        ],
+        "name": "q6"
+    },
+    {
+        "question": "Kto był wodzem ZSRR podczas II wojny światowej?",
+        "options": [
+            "Lenin",
+            "Stalin",
+            "Chruszczow"
+        ],
+        "name": "q7"
+    },
+    {
+        "question": "Jakie państwo zbudowało piramidy w Gizie?",
+        "options": [
+            "Rzym",
+            "Grecja",
+            "Egipt"
+        ],
+        "name": "q8"
+    },
+    {
+        "question": "Kto odkrył Amerykę w 1492 roku?",
+        "options": [
+            "Wikingowie",
+            "Krzysztof Kolumb",
+            "Vasco da Gama"
+        ],
+        "name": "q9"
+    },
+    {
+        "question": "Jaki mur oddzielał Berlin w czasie zimnej wojny?",
+        "options": [
+            "Mur Chiński",
+            "Mur Hadriana",
+            "Mur Berliński"
+        ],
+        "name": "q10"
+    }
+]
